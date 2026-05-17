@@ -1,6 +1,4 @@
-# Lab11-K-Means-Credit-Card-Customer-Segmentation
-
-# Credit Card Customer Segmentation using K-Means
+# Lab11-K-Means-Credit-Card-Customer-Segmentation-using-K-Means
 
 ## Project Overview
 This project applies K-Means clustering to segment credit card customers based on their financial behavior and transaction patterns.
