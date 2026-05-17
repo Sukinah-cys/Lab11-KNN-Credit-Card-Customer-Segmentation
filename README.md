@@ -1,4 +1,4 @@
-# Lab11-KNN-Credit-Card-Customer-Segmentation
+# Lab11-K-Means-Credit-Card-Customer-Segmentation
 
 # Credit Card Customer Segmentation using K-Means
 
